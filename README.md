@@ -49,8 +49,6 @@ Navigating large, unfamiliar, or poorly documented repositories takes time. Repo
 
 ## Screenshots
 
-## Screenshots
-
 <table>
   <tr>
     <td width="50%" align="center">
