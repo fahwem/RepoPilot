@@ -59,7 +59,7 @@ Navigating large, unfamiliar, or poorly documented repositories takes time. Repo
     </td>
     <td width="50%" align="center">
       <img src="dashboard2.png" alt="Gradio dashboard — follow-up question and quick actions" width="100%" /><br/>
-      <sub><b>2. Follow-up reasoning</b> — asking a follow-up question, with quick-action buttons and model info</sub>
+      <sub><b>2. Quick question dashboard</b> — useful for small quick questions(need to paste the github repo link in the area assigned)</sub>
     </td>
   </tr>
   <tr>
