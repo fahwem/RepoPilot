@@ -49,27 +49,27 @@ Navigating large, unfamiliar, or poorly documented repositories takes time. Repo
 
 ## Screenshots
 
-> Replace the placeholders below with your own screenshots. Drop your image files into `docs/screenshots/` and update the paths to match.
+## Screenshots
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="docs/screenshots/01_interface_overview.png" alt="Screenshot 1 — App interface" width="100%" /><br/>
-      <sub><b>1. App interface</b> — the main Gradio dashboard</sub>
+      <img src="dashboard1.png" alt="Gradio dashboard — repository overview and answer" width="100%" /><br/>
+      <sub><b>1. Web dashboard</b> — RepoPilot answering "explain to me this repo in short"</sub>
     </td>
     <td width="50%" align="center">
-      <img src="docs/screenshots/02_followup_execution.png" alt="Screenshot 2 — Follow-up question" width="100%" /><br/>
-      <sub><b>2. Follow-up reasoning</b> — the agent answering a follow-up question</sub>
+      <img src="dashboard2.png" alt="Gradio dashboard — follow-up question and quick actions" width="100%" /><br/>
+      <sub><b>2. Follow-up reasoning</b> — asking a follow-up question, with quick-action buttons and model info</sub>
     </td>
   </tr>
   <tr>
     <td width="50%" align="center">
-      <img src="docs/screenshots/03_placeholder.png" alt="Screenshot 3 — Add your image" width="100%" /><br/>
-      <sub><b>3. Add screenshot</b> — e.g. repo structure inspection</sub>
+      <img src="powershell1.png" alt="PowerShell — RepoPilot analyzing a repository" width="100%" /><br/>
+      <sub><b>3. Terminal view</b> — RepoPilot inspecting a repo's structure and metadata</sub>
     </td>
     <td width="50%" align="center">
-      <img src="docs/screenshots/04_placeholder.png" alt="Screenshot 4 — Add your image" width="100%" /><br/>
-      <sub><b>4. Add screenshot</b> — e.g. tech-stack detection output</sub>
+      <img src="powershell2.png" alt="PowerShell — RepoPilot final answer and follow-up" width="100%" /><br/>
+      <sub><b>4. Terminal view</b> — step-by-step agent reasoning and final answer</sub>
     </td>
   </tr>
 </table>
