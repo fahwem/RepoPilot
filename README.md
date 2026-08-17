@@ -76,20 +76,6 @@ Navigating large, unfamiliar, or poorly documented repositories takes time. Repo
 
 ---
 
-## Demo Video
-
-> Replace the thumbnail and file path with your own recording. Put your video in `docs/demo/` (`.mp4` is best for autoplay support on the web; GitHub will render `.mov` too, but only as a downloadable/clickable link).
-
-<div align="center">
-
-[![Watch the demo](docs/screenshots/video_thumbnail.png)](docs/demo/demo.mp4)
-
-*Click the thumbnail above to watch a full walkthrough: terminal setup, Gradio UI, and live repository analysis.*
-
-</div>
-
----
-
 ##  How It Works
 
 RepoPilot combines a local LLM with lightweight local tooling:
